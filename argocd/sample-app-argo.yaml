@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Im-Junhyuk/jenkins-docker-lab/
+    repoURL: https://github.com/Im-Junhyuk/jenkins-docker-lab
     targetRevision: main
     path: argocd/manifests
   destination:
